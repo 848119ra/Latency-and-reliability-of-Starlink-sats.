@@ -5,7 +5,6 @@
 % Starlink satellite and the distance from the satellite to the
 % gateway in Kaunas, Lithuania, has been calculated. 
 
-
 clc;
 close all;
 clear all;
